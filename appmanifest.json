@@ -1,0 +1,10 @@
+{
+	"name": "Visiting a specialist an eye-specialist",
+	"short_name": "Visiting a specialist an eye-specialist",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
